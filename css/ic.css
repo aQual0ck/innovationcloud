@@ -1,0 +1,138 @@
+*{
+	margin: 0;
+}
+
+.center1{
+	background-image: url(img/bg.jpg);
+	width: 100%;
+	height: 875px;
+}
+
+.center1 h1{
+	text-align: center;
+	font-family: "Arial";
+	color: white;
+	font-size: 128px;
+	padding-top: 10%;
+	white-space: pre-line;
+	line-height: 105px;
+}
+
+.center1 h2{
+	text-align: center;
+	font-family: "Arial";
+	color: white;
+	font-weight: 5px;
+	letter-spacing: 10px;
+	padding-top: 5%;
+}
+
+.center1 .button{
+	width: 200px;
+	height: 50px;
+	background-color: black;
+	text-align: center;
+	margin: 50px auto;
+}
+
+.center1 .button span{
+	display: inline-block;
+	color: white;
+	font-family: "Arial";
+	padding-top: 6%;
+	font-size: 20px;
+	font-weight: 2px;
+}
+
+.menu{
+	width: 100%;
+	height: 89px;
+	background-color: black;
+}
+
+.menu table{
+	color: white;
+	font-family: "Arial";
+	margin-left: 10%;
+	padding-top: 1.75%;
+}
+
+.menu table td{
+	padding-right: 25px;
+}
+
+.about{
+	width: 100%;
+	height: 456px;
+}
+
+.about img{
+	max-width: 40%;
+	max-height: 40%;
+	padding-top: 7%;
+	padding-left: 10%;
+}
+
+.about .abouttext{
+	font-family: "Arial";
+	text-align: left;
+	float: right;
+	margin-top: 5%;
+	font-size: 20px;
+	width: 50%;
+	margin-right: 15%;
+}
+
+.about .abouttext p{
+	padding-top: 20px;
+	font-weight: 100;
+}
+
+.about .abouttext h3{
+	font-size: 35px;
+}
+
+.center2{
+	width: 100%;
+	height: 875px;
+	background-size: contain;
+	font-family: "Arial";
+	color: white;
+	display: inline-block;
+	text-align: right;
+}
+
+.center2 h2{
+	margin-right: 10%;
+	font-size: 30px;
+	margin-top: 15%;
+}
+
+.center2 h3{
+	margin-right: 10%;
+	padding-top: 30px;
+}
+
+.center2 .button{
+	width: 200px;
+	height: 50px;
+	background-color: black;
+	text-align: center;
+	margin-left: 79.4%;
+	margin-top: 2%;
+	font-size: 25px;
+	padding-top: 16px;
+}
+
+.copyright{
+	width: 100%;
+	height: 150px;
+	background-color: black;
+	color: white;
+	font-family: "Arial";
+}
+
+.copyright p{
+	margin-left: 10%;
+	padding-top: 3%;
+}
